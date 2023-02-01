@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://opgc.me/#/users/dhalsdl12" target="_blank"><img src="https://api.opgc.me/githubs/users/dhalsdl12/tag/?theme=basic" /></a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhalsdl12)](https://solved.ac/dhalsdl12/)
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhalsdl12&show_icons=true&layout=compact)
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhalsdl12&layout=compact)
 #
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhalsdl12&" alt="dhalsdl12" /></p>
+#
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhalsdl12)](https://solved.ac/dhalsdl12/)
