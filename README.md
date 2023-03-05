@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhalsdl12)](https://solved.ac/dhalsdl12/)
+![dhalsdl12's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dhalsdl12)
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhalsdl12&show_icons=true&layout=compact)
 #
