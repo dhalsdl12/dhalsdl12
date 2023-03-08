@@ -1,8 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!%20I'm%20Ohmin&fontSize=70)
-<!--desc=Welcome!&descAlignY=75&descAlign=60-->
-💻Tech Stack💻
-### Hi there 👋
+<!--desc=Welcome!&descAlignY=75&descAlign=60--
 
 <!--
 **dhalsdl12/dhalsdl12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
