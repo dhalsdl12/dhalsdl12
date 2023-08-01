@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
     <a href="https://dhalsdl12.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
+    
+    <a href="https://ohmin-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/devdotto-0A0A0A?style=flat-square&logo=Portfolio&logoColor=white"/></a>
     <!--
     <a href="노션 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
     <br>
